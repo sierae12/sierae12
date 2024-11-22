@@ -3,13 +3,13 @@
 I am a current undergraduate student at Willamette University as a Data Science major and Economics minor. I am pursuing the 3+1 BS/MS at Willamette University. 
 
 ## Technical Skills and Proficiencies
-Programming Languages: R (Tidyverse), Python (Pandas, NumPy)
+''Programming Languages:'' R (Tidyverse), Python (Pandas, NumPy)
 
-Machine Learning: Supervised Learning (Linear, Trees, Random Forests)
+''Machine Learning:'' Supervised Learning (Linear, Trees, Random Forests)
 
-Data Visualization: R (GGplot), Python (Matplotlib, Seaborn)
+''Data Visualization:'' R (GGplot), Python (Matplotlib, Seaborn)
 
-Tools: HTML/CSS, Microsoft Office/Google Suite, Excel
+''Tools:'' HTML/CSS, Microsoft Office/Google Suite, Excel
 
 
 
